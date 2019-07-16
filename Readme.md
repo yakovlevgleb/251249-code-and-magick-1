@@ -1,5 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yakovlevgleb/251249-code-and-magick-1.svg)](https://greenkeeper.io/)
+
 * Студент: [Gleb Yakovlev](https://up.htmlacademy.ru/javascript/11/user/251249).
 
 ---
